@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="15sp"
-            android:inputType="number"/>
+            android:inputType="numberDecimal"/>
 
     </LinearLayout>
     <LinearLayout
@@ -60,7 +60,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="15sp"
-            android:inputType="number"/>
+            android:inputType="numberDecimal"/>
     </LinearLayout>
     <Button
         android:id="@+id/btn_check"
